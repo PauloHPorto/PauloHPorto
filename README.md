@@ -1,6 +1,5 @@
 # Um pouco sobre mim 
 
-# Readme
 
 ### Olá! Eu sou o Paulo Henrique Porto
 
