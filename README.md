@@ -3,8 +3,7 @@
 
 ### Olá! Eu sou o Paulo Henrique Porto
 
-- 💼 Jovem Aprendiz do Setor de Inovação e Novos Negócios no UNIFAA.
-- 🖥️ Cursando Análise e Desenvolvimento de Sitemas no UNIFAA (1/4).
+- 🖥️ Cursando Análise e Desenvolvimento de Sitemas no UNIFAA (2/4).
 - 🏠 Valença/RJ.
 
 
